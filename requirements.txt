@@ -1,0 +1,6 @@
+Django==1.6
+Pillow==2.7.0
+argparse==1.2.1
+django-datetime-widget==0.9.3
+pytz==2014.10
+wsgiref==0.1.2
